@@ -1,0 +1,14 @@
+# Student Dataset Analysis
+
+This repository contains Exploratory Data Analysis (EDA) on student performance and marks data using Python libraries.
+
+### Included Files
+
+* **`student_marks.csv`**: The dataset containing student grades, performance, and related scores.
+* **`Student_Dataset_Analysis.ipynb`**: Jupyter Notebook with data cleaning, analysis, and data visualizations.
+
+### Libraries Used
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
